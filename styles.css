@@ -1,2 +1,21 @@
-
-/* Your CSS Code here. */
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1px 40px;
+}
+thead{
+    color: white;
+    background-color: rgb(209, 40, 40);
+}
+#row1st{
+    color: white;
+    background-color: rgb(233, 108, 108)
+}
+#row2nd{
+    color: black;
+    background-color: rgb(219, 180, 180);
+}
+#row3rd{
+    color: black;
+    background-color: rgb(230, 225, 225);
+}
